@@ -1,2 +1,2 @@
-# Strona z porftolio którą stworzyłem dla mojego przyjaciela.
 # https://portfoliowustrau.pl/
+Pierwsza i jedyna strona, którą stworzyłem jako porftolio dla przyjaciela.
